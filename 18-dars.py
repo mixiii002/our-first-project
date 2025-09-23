@@ -16,3 +16,5 @@ git clone + ссылка самого проекта (https://github.com/mixiii0
 '''
 
 
+# decorators
+
