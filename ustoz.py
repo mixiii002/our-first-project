@@ -5,17 +5,25 @@
 # decorators
 
 
-def dekorator(func):
-    def luboy():
-        print("dekorator birinchi")
-        func()
-        print("dekorator ikkinchi")
+# def dekorator(func):
+#     def luboy():
+#         print("dekorator birinchi")
+#         func()
+#         print("dekorator ikkinchi")
 
-    return luboy
+#     return luboy
 
-@dekorator
-def salomlash():
-    print("Assalomu alaykum")
+# @dekorator
+# def salomlash():
+#     print("Assalomu alaykum")
 
 
-salomlash()
+# salomlash()
+
+
+
+# iteratorlar
+
+
+
+
