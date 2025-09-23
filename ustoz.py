@@ -34,7 +34,7 @@
 #     print(s)
 
 
-mevalar = ["olma", "behi", "anor"]
+mevalar = [["olma", "behi"], "anor"]
 mevalar_iter = iter(mevalar)
 print(next(mevalar_iter))
 print("salom")
