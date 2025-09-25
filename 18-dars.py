@@ -43,28 +43,49 @@ git clone + ссылка самого проекта (https://github.com/mixiii0
 #         print('Byeeeeeee 222')
     
 #     return nik
-# @dekorator
-# def salomlash():
-#     print('assalomu aleykum')
+# # @dekorator
+# # def salomlash():
+# #     print('assalomu aleykum')
 
-# salomlash()
-
-
-
-ism = ['Mukhammad']
-iteration = iter(ism)
-print(next(iteration))
-print(next(iteration))
-print(next(iteration))
-print(next(iteration))
-print(next(iteration))
-print(next(iteration))
-print(next(iteration))
-print(next(iteration))
-print(next(iteration))
+# # salomlash()
 
 
 
+# ism = [Mukhammad]
+# iteration = iter(ism)
+# print(next(iteration))
+# print(next(iteration))
+# print(next(iteration))
+# print(next(iteration))
+# # print(next(iteration))
+# # print(next(iteration))
+# # print(next(iteration))
+# # print(next(iteration))
+# print(next(iteration))
+
+
+
+
+
+# fayl = open('test.txt', 'r')
+# print(fayl.read())
+# fayl.close()
+
+
+
+
+# fayl = open('test.txt', 'w')
+# fayl.write('pokaaaa')
+# fayl.close()
+
+# fayl = open('test.txt', 'a')
+# fayl.write('\ncchuuuurrrrkk')
+# fayl(close)
+
+
+# fayl = open('main.txt', 'w')
+# fayl.write('blablabla')
+# fayl.close()
 
 
 
